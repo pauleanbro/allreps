@@ -94,7 +94,7 @@ export default function HomeScreen() {
                 </Button.Text>
               </Button.Root>
             </View>
-            <Link href="/profile" className="mt-5 text-center">
+            <Link href="/theme" className="mt-5 text-center">
               <Text className="text-slate-600">
                 Não possui uma conta? Registre-se
               </Text>
